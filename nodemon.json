@@ -1,0 +1,13 @@
+{
+            "watch": [
+                "src",
+                "app.js"
+            ],
+            "ext": "js,json,ts",
+            "ignore": [
+                "node_modules"
+            ],
+            "execMap": {
+                "js": "cls && node"
+            }
+            }
